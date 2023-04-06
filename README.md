@@ -1,2 +1,2 @@
 # assignments
-personal assignments
+ML assignments
